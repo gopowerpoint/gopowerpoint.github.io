@@ -5,7 +5,7 @@
 .jumbotron {
   background-image: url('header.jpg');
   background-size: cover;
-  padding-top: 535px;
+  padding-top: 550px;
 }
 
 .carousel-inner {
@@ -16,12 +16,16 @@
   margin-bottom: 10%;
 }
 
+.container1 {
+  margin-top: 10%;
+}
+
 .container3 {
-margin-top: 25%;
+margin-top: 10%;
 }
 
 .kaki {
-  margin-top: 25%;
+  margin-top: 15%;
 }
 
 
