@@ -1,0 +1,29 @@
+.badan {
+  background-color: whitesmoke;
+}
+
+.jumbotron {
+  background-image: url('header.jpg');
+  background-size: cover;
+  padding-top: 535px;
+}
+
+.carousel-inner {
+  width: 50%;
+  height: 50%;
+  margin-left: 25%;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.container3 {
+margin-top: 25%;
+}
+
+.kaki {
+  margin-top: 25%;
+}
+
+
+
+
