@@ -1,5 +1,5 @@
 .badan {
-  background-color: whitesmoke;
+  background-color: inherit;
 }
 
 @media screen and (max-width:680px){
@@ -15,28 +15,16 @@
 }
 
 .jumbotron {
-  background-image: url('header.jpg');
   background-size: cover;
   padding-top: 550px;
 }
 
-.carousel-inner {
-  width: 80%;
-  height: 80%;
-  margin-left: 125%;
-  margin-top: -30%;
-}
+
 
 .container2 {
   margin-top: 15%;
 }
 
-.container3 {
-  width: 80%;
-  height: 80%;
-  margin-left: 125%;
-  margin-top: -85%;
-}
 
 .kaki {
   margin-top: 30%;
